@@ -1,3 +1,9 @@
+///
+How to hack Quizlet Match?
+Open your browser web and get up Quizlet(specificaly quizlet match) and your Github so you can copy this code 
+Left clik on the screen and click on the title: Inspect Element
+Go to the subheading labeled Console and paste the the code in there, then press enter
+Select the specific time you want tghe timer to pause at then take as much time as you want to complete the questions
 
 // ==UserScript==
 // @name         Quizlet Match Hacker
