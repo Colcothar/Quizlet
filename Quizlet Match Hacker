@@ -1,12 +1,4 @@
-///
-1)Open up your browser and find+copy the code below.
-2)On your quizlet match screen, left click.
-3)Go down the options until you find one called Inspect Element.
-4)On the Inspect Element, go to the subheading called Console.
-5)In this section paste the code and then press the enter key.
-6)You can then select the time you want.
-7)Now you have done this you can spend as much time as you want to answer the quesions.
-///
+
 // ==UserScript==
 // @name         Quizlet Match Hacker
 // @namespace    Ray D. Adams
