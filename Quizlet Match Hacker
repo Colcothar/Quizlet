@@ -201,7 +201,7 @@ var gravityScore,
 						clearTimeout(matchLoop);
 					}
 				}
-			}, 490);
+			}, 500);
 		}
 			
 		function micromatch() {
